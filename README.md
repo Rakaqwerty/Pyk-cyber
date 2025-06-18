@@ -28,5 +28,3 @@
   <h2>SKILL HACKING</h2>
   <div class="button">BUG WATSHAP</div>
   <div class="button">Suntik follow ers</div>
-</body>
-</html>
